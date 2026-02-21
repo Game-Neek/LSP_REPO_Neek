@@ -10,7 +10,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-// Import BigDecimal for precise decimal math (money handling)
+// Import BigDecimal for precise decimal math 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
