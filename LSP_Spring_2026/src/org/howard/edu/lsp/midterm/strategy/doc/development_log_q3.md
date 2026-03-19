@@ -223,3 +223,5 @@ public class PriceCalculator {
         return strategy.calculate(price);
     }
 }
+
+Would you like me to double-check the logic for the HOLIDAY discount percentage one more time?
